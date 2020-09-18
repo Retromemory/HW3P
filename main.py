@@ -1,3 +1,4 @@
+# Author: Jiahui Lan jzl6335@psu.edu
 def digit_sum(n):
     if n==0:
         return 0
